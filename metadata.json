@@ -1,0 +1,6 @@
+{
+  "name": "LandAudit",
+  "description": "Analyze torn and aged land record documents with intelligent OCR, detect forgery or tampering, and generate verifiable PDF summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
